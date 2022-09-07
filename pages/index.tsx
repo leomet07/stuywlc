@@ -26,12 +26,18 @@ const Home: NextPage = () => {
 					<p>
 						Take a look at the&nbsp;
 						<a href="https://docs.google.com/document/d/10uNOTJSbDxd0RMBXnJfBv84a4d5IFZwnDJd-WdruwwQ/edit?usp=sharing">
-							Exercises + Workout Split
+							Exercises + Workout Split document
 						</a>
 					</p>
 					<p>
 						Email us at&nbsp;
 						<a href="mailto:stuywlc@gmail.com">stuywlc@gmail.com</a>
+					</p>
+					<p>
+						Join our discord server&nbsp;
+						<a href="https://discord.gg/rJQxs6UW67">
+							discord.gg/rJQxs6UW67
+						</a>
 					</p>
 					<p>
 						Follow @
