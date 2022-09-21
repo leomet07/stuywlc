@@ -24,6 +24,12 @@ const Home: NextPage = () => {
 						</a>
 					</p>
 					<p>
+						Fill out our&nbsp;
+						<a href="https://forms.gle/rXkeNAUQxNJTbZJK6">
+							Interest Form
+						</a>
+					</p>
+					<p>
 						Take a look at the&nbsp;
 						<a href="https://docs.google.com/document/d/10uNOTJSbDxd0RMBXnJfBv84a4d5IFZwnDJd-WdruwwQ/edit?usp=sharing">
 							Exercises + Workout Split document
