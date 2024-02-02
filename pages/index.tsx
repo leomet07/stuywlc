@@ -45,10 +45,11 @@ const Home: NextPage = () => {
 						&nbsp;on instagram
 					</p>
 					<p>
-						Sign up for our meets on the&nbsp;
-						<a href="https://forms.gle/8XGR2NAqaowGXSQP8">
-							Google form
-						</a>
+						View{" "}
+						<a href="https://drive.google.com/drive/folders/1ieMZsMd-UBolivU3ZhjNpYh9qpv5bSdi?usp=sharing">
+							some example videos
+						</a>{" "}
+						of some common machines and exercises.
 					</p>
 				</div>
 			</main>
