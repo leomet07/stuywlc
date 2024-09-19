@@ -17,12 +17,12 @@ const Home: NextPage = () => {
 			<main id={styles.main}>
 				<h1 className={styles.title}>Stuyvesant Weightlifting Club</h1>
 				<div id={styles.social_media_links}>
-					<p>
-						Join us on&nbsp;
+					<h2>
+						Join us on{" "}
 						<a href="https://stuyactivities.org/stuywlc">
-							StuyActivities
-						</a>
-					</p>
+							StuyActivities/Epsilon
+						</a>!
+					</h2>
 					<p>
 						Take a look at the&nbsp;
 						<a href="https://docs.google.com/document/d/10uNOTJSbDxd0RMBXnJfBv84a4d5IFZwnDJd-WdruwwQ/edit?usp=sharing">
